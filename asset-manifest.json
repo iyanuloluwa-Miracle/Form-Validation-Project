@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/iyanuloluwa-Miracle.github.io/Form-Validation-Project/static/css/main.9a83ba5f.chunk.css",
-    "main.js": "/iyanuloluwa-Miracle.github.io/Form-Validation-Project/static/js/main.29933a61.chunk.js",
-    "main.js.map": "/iyanuloluwa-Miracle.github.io/Form-Validation-Project/static/js/main.29933a61.chunk.js.map",
-    "runtime-main.js": "/iyanuloluwa-Miracle.github.io/Form-Validation-Project/static/js/runtime-main.170329ab.js",
-    "runtime-main.js.map": "/iyanuloluwa-Miracle.github.io/Form-Validation-Project/static/js/runtime-main.170329ab.js.map",
-    "static/js/2.c67b6929.chunk.js": "/iyanuloluwa-Miracle.github.io/Form-Validation-Project/static/js/2.c67b6929.chunk.js",
-    "static/js/2.c67b6929.chunk.js.map": "/iyanuloluwa-Miracle.github.io/Form-Validation-Project/static/js/2.c67b6929.chunk.js.map",
-    "static/js/3.159de0ff.chunk.js": "/iyanuloluwa-Miracle.github.io/Form-Validation-Project/static/js/3.159de0ff.chunk.js",
-    "static/js/3.159de0ff.chunk.js.map": "/iyanuloluwa-Miracle.github.io/Form-Validation-Project/static/js/3.159de0ff.chunk.js.map",
-    "index.html": "/iyanuloluwa-Miracle.github.io/Form-Validation-Project/index.html",
-    "static/css/main.9a83ba5f.chunk.css.map": "/iyanuloluwa-Miracle.github.io/Form-Validation-Project/static/css/main.9a83ba5f.chunk.css.map",
-    "static/js/2.c67b6929.chunk.js.LICENSE.txt": "/iyanuloluwa-Miracle.github.io/Form-Validation-Project/static/js/2.c67b6929.chunk.js.LICENSE.txt"
+    "main.css": "/Form-Validation-Project/static/css/main.9a83ba5f.chunk.css",
+    "main.js": "/Form-Validation-Project/static/js/main.29933a61.chunk.js",
+    "main.js.map": "/Form-Validation-Project/static/js/main.29933a61.chunk.js.map",
+    "runtime-main.js": "/Form-Validation-Project/static/js/runtime-main.d22bf103.js",
+    "runtime-main.js.map": "/Form-Validation-Project/static/js/runtime-main.d22bf103.js.map",
+    "static/js/2.c67b6929.chunk.js": "/Form-Validation-Project/static/js/2.c67b6929.chunk.js",
+    "static/js/2.c67b6929.chunk.js.map": "/Form-Validation-Project/static/js/2.c67b6929.chunk.js.map",
+    "static/js/3.159de0ff.chunk.js": "/Form-Validation-Project/static/js/3.159de0ff.chunk.js",
+    "static/js/3.159de0ff.chunk.js.map": "/Form-Validation-Project/static/js/3.159de0ff.chunk.js.map",
+    "index.html": "/Form-Validation-Project/index.html",
+    "static/css/main.9a83ba5f.chunk.css.map": "/Form-Validation-Project/static/css/main.9a83ba5f.chunk.css.map",
+    "static/js/2.c67b6929.chunk.js.LICENSE.txt": "/Form-Validation-Project/static/js/2.c67b6929.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.170329ab.js",
+    "static/js/runtime-main.d22bf103.js",
     "static/js/2.c67b6929.chunk.js",
     "static/css/main.9a83ba5f.chunk.css",
     "static/js/main.29933a61.chunk.js"
